@@ -9,6 +9,7 @@ Software engineer with **13 years of Java/J2EE experience**, now completing an *
 - **[AI Database Analyst](https://github.com/rimasnh/ai-database-analyst)** — Secure enterprise NL-to-SQL agent built with Google ADK 2.0 + Gemini 3.1 Flash Lite. Deterministic security hooks block destructive SQL before it ever executes.
 - **[FilingLens](https://github.com/rimasnh/sec-10k-rag-chatbot)** — MS capstone: RAG chatbot over SEC 10-K filings (Sections 7 & 7A). Spring Boot + Qdrant + Ollama, Parquet ingestion, grounded answers with inspectable evidence.
 - **[Heatwave Analysis](https://github.com/rimasnh/heatwave-analysis-azure-databricks)** — Distributed climate-trend analysis with PySpark on Azure Databricks over NASA NEX-GDDP NetCDF data, Parquet-optimized.
+- **[Hospital Readmission Prediction](https://github.com/rimasnh/hospital-readmission-prediction)** — End-to-end ML predicting 30-day readmission risk: EDA, Logistic Regression vs Random Forest, fairness metrics, Flask deployment.
 - **[Personal Task Manager](https://github.com/rimasnh/personal-task-manager)** — Spring Boot REST API for task management with an AI-powered task-suggestion endpoint.
 
 ## 🛠️ Tech stack
