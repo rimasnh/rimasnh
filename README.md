@@ -4,6 +4,10 @@ Software engineer with **13 years of Java/J2EE experience**, now completing an *
 
 🎯 **Target roles:** Full Stack Engineer · Backend Engineer · Data Engineer
 
+## 🧭 Why I'm on GitHub
+
+I like to explore new technologies and learn in public. After 13 years building backend systems, GitHub is where I experiment with what's next — lately that's RAG systems, LLMs, vector databases, and ML pipelines. Everything here is something I built to understand a technology better.
+
 ## 🚀 Featured projects
 
 - **[AI Database Analyst](https://github.com/rimasnh/ai-database-analyst)** — Secure enterprise NL-to-SQL agent built with Google ADK 2.0 + Gemini 3.1 Flash Lite. Deterministic security hooks block destructive SQL before it ever executes.
